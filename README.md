@@ -1,15 +1,37 @@
 #### kj kj  kj jk kj j kj k
 ### kj kj  kj jk kj j kj k
 ## kj kj  kj jk kj j kj k
-## kj kj  kj jk kj j kj k
-
+fd
+# kj kj  kj jk kj j kj k
 jkjkjkjj
 ***
+jkjkjkjj
+
+
+
+
+
+> *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
+***
+kjkjkj
+
+---
+> *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
+***
+
+kjkjkj
+
+
+
+
+--
 ***kj kj***
 
-*jk  j kjj k*
+---
+***kj kj***
 
-**kj kj**
+
+
 
 `vim ics.sh`
 
@@ -17,16 +39,14 @@ jkjkjkjj
 vim ics.sh
 ```
 
-> After quote use space.
+> After quote use space and star or dash.
 
+---
 > After quote use space.
 There's more
 
-For line break use *** not ---
 
 
- For line break use *** or ----- not ---
-***
 
 1. k kj
 2. kj k
@@ -41,18 +61,7 @@ For line break use *** not ---
 
 
 
-<u> Text to be underlined </u>
 
-<span style="background-color: rgb(00, 100, 0);">
-Text to be highlighted
-</span>
-
-This is inline <span style="font-family: consolas; font-size: 14px"> monospace</span> text hi
-
-
-<div style="font-family: Times New Roman; font-size: 12pt">
-This is 12pt Times New Roman for writing papers.
-</div>
 
 
 1. First ordered list item
@@ -86,34 +95,16 @@ This is 12pt Times New Roman for writing papers.
 | one more | row | Yay! 😆 |
 
 
-$$
-int_0^infty f(x)dx
-$$
 
-> does not work on markdown
 
-You can create footnote references that are short[^1] or long.[^2]
-You can also create them inline.^[which may be easier,
-since you don't need to pick an identifier and move down to type the note]
-The footnotes are automatically numbered at the bottom of your note,
-but you'll need to manually number your superscripts.
-Make sure to count your variable[^variable] footnotes.[^5]
+> Latex and footnotes does not work on markdown
 
-[^1]: Here's a footnote.
-[^2]: Here’s a footnote with multiple blocks.
 
-```
-Subsequent paragraphs are indented to show that they belong to the previous footnote.
 
-    { eight spaces for some code }
+				Subsequent paragraphs are indented to show that they belong to the previous footnote.
 
-The whole paragraph can be indented, or just the first
-line. In this way, multi-paragraph footnotes work like
-multi-paragraph list items.
-```
+						{ eight spaces for some code }
 
-This paragraph won’t be part of the footnote, because it
-isn’t indented.
-
-[^variable]: The variable footnote is the fourth footnote.
-[^5]: This is the fifth footnote.
+				The whole paragraph can be indented, or just the first
+				line. In this way, multi-paragraph footnotes work like
+				multi-paragraph list items.
