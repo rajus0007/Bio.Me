@@ -11,19 +11,19 @@ stars make bold line break.
 
 
 
-> I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
+> *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
 ***
-kjkjkj
+After Quotes use space and dash, not star.
 
 ---
 > *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
 ***
 
-kjkjkj
+If star then put space after star.
 
 
 
----
+--
 ***kj kj***
 
 
@@ -104,4 +104,5 @@ There's more
 				The whole paragraph can be indented, or just the first
 				line. In this way, multi-paragraph footnotes work like
 				multi-paragraph list items.
+
 
