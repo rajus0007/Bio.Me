@@ -11,7 +11,7 @@ stars make bold line break.
 
 
 
-> *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
+> I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊
 ***
 kjkjkj
 
