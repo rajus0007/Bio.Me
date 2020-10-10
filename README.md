@@ -1,11 +1,11 @@
 #### kj kj  kj jk kj j kj k
 ### kj kj  kj jk kj j kj k
 ## kj kj  kj jk kj j kj k
-fd
+Double headers will always put a  line break.
 # kj kj  kj jk kj j kj k
-jkjkjkjj
+Single headers put a line break on github.
 ***
-jkjkjkjj
+stars make bold line break.
 
 
 
@@ -22,10 +22,6 @@ kjkjkj
 kjkjkj
 
 
-
-
---
-***kj kj***
 
 ---
 ***kj kj***
@@ -108,3 +104,4 @@ There's more
 				The whole paragraph can be indented, or just the first
 				line. In this way, multi-paragraph footnotes work like
 				multi-paragraph list items.
+
