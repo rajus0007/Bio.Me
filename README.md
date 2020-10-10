@@ -10,16 +10,17 @@ stars make bold line break.
 
 
 
-
 > *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
 ***
 After Quotes use space and dash, not star.
 
----
+
 > *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
 ***
 
 If star then put space after star.
+
+
 
 
 
@@ -59,17 +60,13 @@ There's more
 
 
 
-
 1. First ordered list item
-2. 
-   
-   
-   Another item.a. Two spaces for lettered listb. Add two trailing spaces to create new lettered itemc. Third lettered list
+2. Another item.a. Two spaces for lettered listb. Add two trailing spaces to create new lettered item. Third lettered list
    * Three or four spaces for unordered sub sub list
    * Three or four spaces for unordered sub sub list
-   1. 
-      
-      Three or four spaces for ordered sub sub lista. Lettered listb. Lettered list
+   1. Three or four spaces for ordered sub sub list.
+        a. Lettered list
+        b. Lettered list
    2. Ordered list on same level
 
 * Unordered List
@@ -79,6 +76,8 @@ There's more
       1. Seven spaces for ordered sub sub sub sub list
       2. Seven spaces for ordered sub sub sub sub list
   1. Numbered list doesn't resume
+
+
 
 
 | Tables | Are | Cool |
@@ -96,13 +95,8 @@ There's more
 > Latex and footnotes does not work on markdown
 
 
-
-				Subsequent paragraphs are indented to show that they belong to the previous footnote.
-
-						{ eight spaces for some code }
-
-				The whole paragraph can be indented, or just the first
-				line. In this way, multi-paragraph footnotes work like
-				multi-paragraph list items.
+    Subsequent paragraphs are indented.
+    The whole paragraph can be indented, or just the first line.
+    In this way, multi-paragraph footnotes work like multi-paragraph list items.
 
 
