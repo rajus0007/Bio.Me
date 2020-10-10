@@ -14,7 +14,7 @@ stars make bold line break.
 ***
 After Quotes use space and dash, not star.
 
-
+---
 > *I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*
 ***
 
