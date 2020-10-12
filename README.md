@@ -38,7 +38,6 @@ NEC | F9 | F2
 Asus | ESC | F2
 Asrock | F10 | F2
 
-
 Brand name | Boot menu key | Bios setup key
 :--|:--:|:--:
 Dell | F12 | F2
@@ -47,6 +46,12 @@ NEC | F9 | F2
 Asus | ESC | F2
 Asrock | F10 | F2
 
+course name|faculty
+--|:--:
+MAT125|ssu
+EEE154|Sqr
+ECO101|FTs
+CSE173|SfT
 
 ***kj kj***
 ~~deleted words~~
